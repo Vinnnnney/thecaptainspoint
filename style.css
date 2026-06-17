@@ -6,7 +6,7 @@ color:#333;
 }
 .hero{
 height:70vh;
-background:url('images/hero.jpg') center/cover no-repeat;
+background:url('images/hero.webp') center/cover no-repeat;
 display:flex;
 align-items:center;
 justify-content:center;
